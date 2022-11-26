@@ -1,0 +1,39 @@
+require_relative '../node_modules/react-native/scripts/react_native_pods'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+platform :ios, '13.0'
+
+$RNFirebaseAnalyticsWithoutAdIdSupport = true
+
+target 'novelship' do
+  config = use_native_modules!
+  use_react_native!(:path => config[:reactNativePath],:hermes_enabled => true)
+
+  pod 'Permission-AppTrackingTransparency', :path => "../node_modules/react-native-permissions/ios/AppTrackingTransparency"
+  pod 'Permission-Camera', :path => "../node_modules/react-native-permissions/ios/Camera"
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+  pod 'RNSentry', :path => '../node_modules/@sentry/react-native'
+  pod 'react-native-version-check', :path => '../node_modules/react-native-version-check'
+  pod 'Permission-PhotoLibrary', :path => "../node_modules/react-native-permissions/ios/PhotoLibrary"
+  # target 'novelshipTests' do
+    # inherit! :complete
+    # Pods for testing
+  # end
+
+  # Enables Flipper.
+  #
+  # Note that if you have use_frameworks! enabled, Flipper will not work and
+  # you should disable the next line.
+  if !ENV['CI']
+    use_flipper!()
+
+    post_install do |installer|
+      react_native_post_install(installer)
+      __apply_Xcode_12_5_M1_post_install_workaround(installer)
+    end
+  end
+end
+
+target 'OneSignalNotificationServiceExtension' do
+  pod 'OneSignal', '>= 3.0', '< 4.0'
+end

@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/IBMPlexSans-Bold.ttf",
+      "sha1": "3ea14e6c7abe5738a05a9aa43c82c0608bd6128d"
+    },
+    {
+      "path": "assets/fonts/IBMPlexSans-Medium.ttf",
+      "sha1": "217ea2eb48ec33e3076064ea9c9f8d953e7ce061"
+    },
+    {
+      "path": "assets/fonts/IBMPlexSans-SemiBold.ttf",
+      "sha1": "4306dd9745eaa58c833cdf0a02a74df063a3e62d"
+    },
+    {
+      "path": "assets/fonts/IBMPlexSans.ttf",
+      "sha1": "ad38f2d6870ca73533f36bdb958cd8083a49c1a8"
+    },
+    {
+      "path": "assets/images/graphics/login-banner.png",
+      "sha1": "fa36748ea0d001b93d9f78b8120216d8fb8802b0"
+    },
+    {
+      "path": "assets/images/graphics/signup-banner.png",
+      "sha1": "b24039613ec9aecc4206853d8baef1c2fc6f83c2"
+    },
+    {
+      "path": "assets/images/graphics/start-background.png",
+      "sha1": "03bb8bbd61aee1ad1f87ba329988da4c0be8367d"
+    }
+  ]
+}

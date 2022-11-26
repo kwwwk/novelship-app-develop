@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>490988103660-rlnq6t8s5kuknd509hlf2uhak6t0l9qt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.490988103660-rlnq6t8s5kuknd509hlf2uhak6t0l9qt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>490988103660-292lrsnfhp21nfjv2c09l3aqa8guvpmd.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBV2b_jgX-lzF4qQyahusKuqyWRaA9hMQI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>490988103660</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.novelship.novelship-dev</string>
+	<key>PROJECT_ID</key>
+	<string>novelship-app-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>novelship-app-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<false/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<false/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:490988103660:ios:5a6d12e7cb3dd1ec5fc2c9</string>
+</dict>
+</plist>

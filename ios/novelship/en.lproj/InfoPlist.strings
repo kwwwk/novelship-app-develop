@@ -1,0 +1,9 @@
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "To scan cards for quick card information entry";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Your location is used to send you promotions for your region.";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Your data will be used to send you new offers and product release updates.";
+

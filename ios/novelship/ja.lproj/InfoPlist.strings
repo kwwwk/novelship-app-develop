@@ -1,0 +1,12 @@
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "カードをスキャンして情報を素早く入力";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "お客様の位置情報は、地域に合わせたプロモーションをお送りするために使用されます。";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "写真を共有するたに、NOVELSHIPにギャラリーへのアクセスを許可する";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "お客様のデータは、新しいオファーや製品リリースの最新情報をお届けするために使用されます。";
+

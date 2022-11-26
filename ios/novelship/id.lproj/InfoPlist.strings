@@ -1,0 +1,12 @@
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Untuk scan kartu a gar dapat melihat informasi kartu";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Lokasi Anda digunakan untuk memberi promo sesuai daerah Anda";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Untuk mengakses galeri foto agar dapat membagikan foto. ";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Data Anda akan digunakan untuk mengirimkan tawaran dan info rilisan produk terbaru. ";
+

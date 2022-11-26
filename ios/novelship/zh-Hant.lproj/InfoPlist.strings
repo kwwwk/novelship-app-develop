@@ -1,0 +1,12 @@
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "掃描卡片以快速輸入卡片信息";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "您的位置用於向您發送您所在地區的促銷信息。";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "授權NOVELSHIP取用您的相簿照片以共享使用";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "您的數據將用於向您發送新優惠和產品發布更新。";
+

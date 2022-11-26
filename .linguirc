@@ -1,0 +1,40 @@
+{
+  "catalogs": [
+    {
+      "path": "locales/{locale}/messages",
+      "include": [
+        "app",
+        "common"
+      ],
+      "exclude": [
+        "**/node_modules/**"
+      ]
+    }
+  ],
+  "formatOptions": {
+    "origins": true,
+    "lineNumbers": false
+  },
+  "compileNamespace": "ts",
+  "extractBabelOptions": {},
+  "fallbackLocales": {
+    "default": "en"
+  },
+  "format": "po",
+  "locales": [
+    "en",
+    "id",
+    "my",
+    "zh-Hans",
+    "zh-Hant-TW",
+    "ja"
+  ],
+  "orderBy": "messageId",
+  "pseudoLocale": "",
+  "rootDir": ".",
+  "runtimeConfigModule": [
+    "@lingui/core",
+    "i18n"
+  ],
+  "sourceLocale": "en"
+}

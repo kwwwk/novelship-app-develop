@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659706924382",
+    "project_id": "novelship-app",
+    "storage_bucket": "novelship-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659706924382:android:0154f878e5e7df6f0153cf",
+        "android_client_info": {
+          "package_name": "com.novelship.novelship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659706924382-f0lio423oflbhddku5shbaeo3krrr3d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novelship.novelship",
+            "certificate_hash": "52c175eea9b3b7f2c1fa54680c5942e1788f09d0"
+          }
+        },
+        {
+          "client_id": "659706924382-mm6svb93b7brajqk9vpq2p8lctgnuork.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgCLHrl5eojCGr1m0EuYEMWSCl-3l4JYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659706924382-mm6svb93b7brajqk9vpq2p8lctgnuork.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659706924382-ushctakttkqfqae9erv3ndg9jl1r57vt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.novelship.novelship",
+                "app_store_id": "1553741278"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

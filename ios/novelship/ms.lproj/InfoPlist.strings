@@ -1,0 +1,12 @@
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "Untuk mengimbas kad untuk melihat informasi kad";
+
+/* Privacy - Location When In Use Usage Description */
+"NSLocationWhenInUseUsageDescription" = "Lokasi anda digunakan untuk menghantar promosi untuk wilayah anda.";
+
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Untuk mengakses pustaka foto bagi tujuan berkongsi foto";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Data anda akan digunakan untuk menghantar tawaran baharu dan mengemas kini keluaran produk kepada anda.";
+

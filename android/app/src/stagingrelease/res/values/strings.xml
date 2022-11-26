@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<resources>
+  <string name="app_name">Novelship Test</string>
+  <string name="app_scheme">novelship-test</string>
+  <string name="app_universal_link">test.novelship.com</string>
+  <string name="facebook_app_id">116846465638888</string>
+  <string name="facebook_client_token">6de07f2ad2097c9e9cf4ea49529b0599</string>
+  <string name="facebook_provider_authorities">
+    com.facebook.app.FacebookContentProvider116846465638888
+  </string>
+</resources>
